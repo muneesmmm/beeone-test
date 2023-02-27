@@ -20,7 +20,7 @@
           <span>Plans</span>
         </div>
       </div>
-       <div class="mt-[8rem] up-item text-white" >
+       <div class="mt-[8rem] text-white" >
                 <span class="font-bold text-2xl">
                   Address
                 </span>
