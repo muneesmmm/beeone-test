@@ -29,7 +29,7 @@
       
           <div class="relative">
 <div class="absolute -bottom-14 -right-14 -z-50">
-            <img src="../assets/Elements/What we provide elements/Rectangle abstract background 2.png" alt="">
+            <img src="../assets/Elements/Whatweprovideelements/Rectangleabstractbackground2.png" alt="">
           </div>
       <div
           style="background-color: #1f5eff"
@@ -38,7 +38,7 @@
 
           <img
           class=" h-full object-cover w-full"
-            src="../assets/Elements/What we provide elements/What we provide image.png"
+            src="../assets/Elements/Whatweprovideelements/Whatweprovideimage.png"
             alt=""
           >
         </div>
