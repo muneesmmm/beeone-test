@@ -20,22 +20,22 @@
       <div class="w-[26rem]">
           <img
           class="absolute ml-[20rem] mt-[5rem]"
-            src="../assets/Elements/Download now elements/Phone mockup cube 1.png"
+            src="../assets/Elements/Downloadnowelements/Phonemockupcube1.png"
             alt=""
           />
           <img
           class="absolute mt-[3rem]  h-[25rem]"
-            src="../assets/Elements/Download now elements/Phone mockup background.png"
+            src="../assets/Elements/Downloadnowelements/Phonemockupbackground.png"
             alt=""
           />
           <img
           class="absolute mt-[23rem] ml-9"
-            src="../assets/Elements/Download now elements/Phone mockup qube 2.png"
+            src="../assets/Elements/Downloadnowelements/Phonemockupcube2.png"
             alt=""
           />
           <img
             class="h-[30rem] absolute ml-20"
-            src="../assets/Elements/Download now elements/Phone mockup.png"
+            src="../assets/Elements/Downloadnowelements/Phonemockup.png"
             alt=""
           />
       </div>
